@@ -1,6 +1,6 @@
 using System;
 					
-public class Program
+public class Comissao_de_vendas
 {
 	public static void Main()
 	{
